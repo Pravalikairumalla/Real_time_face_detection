@@ -1,0 +1,4 @@
+ultralytics
+mediapipe
+tensorflow
+opencv-python
